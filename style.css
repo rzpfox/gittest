@@ -1,10 +1,13 @@
 body {
 	margin:0;
 	font-family:Helvetica;
-	background-color:#D2333;
+	background-color: #D23333;
 
 }
-h1 {font-weight: 200}
+h1 {
+  font-weight: 200
+  color: white;
+}
 
 #logo {
 	height: 80px;
